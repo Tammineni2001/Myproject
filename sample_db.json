@@ -1,0 +1,58 @@
+{
+    "testuser": {
+        "password_hash": "$2b$12$KbAKbsN6Ru2WXW3HD.Fmje/11ogC.T1YWTKf8A8k37L8LZzSeL31m",
+        "role": "user"
+    },
+    "testuser1": {
+        "password_hash": "$2b$12$4cdl6Z.j.PvtatOpA01rhe1bMEayBZrdmPrAviadnNgjT/URMwxfW",
+        "role": "user"
+    },
+    "testuser233": {
+        "password_hash": "$2b$12$W1Zp4FRjaN5PWXMsHPayWeK./D46fE6wHQUXwQ054RfBlLU5uD99.",
+        "role": "user"
+    },
+    "adminuser": {
+        "password_hash": "$2b$12$4UDNRnwe8PfbvrajmddKeuFVP0h/sEh9THjXHRgujxcaQ9S/j/gWq",
+        "role": "admin"
+    },
+    "nuser": {
+        "password_hash": "$2b$12$g3FcLMgsU480WDrZbO3pcOzFwU/uYx0w7AYh/QgYC2t/FZVNMqPee",
+        "role": "user"
+    },
+    "adminuser11": {
+        "password_hash": "$2b$12$Pe0ukdKPeIWquwsNQcN5FOW6T0xjQx.E5kZGTnHRWJo.Iyuv8OoLa",
+        "role": "admin"
+    },
+    "rajeshtan1": {
+        "password_hash": "$2b$12$1mnwBhDtJQyNPIPsxADr1uhHyvHTksH1LCHaIrhDaAZS3Fkm9iizy",
+        "role": "user"
+    },
+    "testuser122222": {
+        "password_hash": "$2b$12$vGjFzTELIBQGRgVQX0bwE.c7E.UaG3V5mPgWM0lqWqa0Fb7RC6B8.",
+        "role": "user"
+    },
+    "adminuser29": {
+        "password_hash": "$2b$12$/jx5HnH1/Gi4bLWHYwMJteY43AqjUxD5mVwy1iVr8cZEhcuu/7DJ6",
+        "role": "admin"
+    },
+    "rajadmin": {
+        "password_hash": "$2b$12$FnN4f3drYaOosvEPMtJXNO1DZWSg9oDIrvrmWKddM9sLNyFduxrtW",
+        "role": "admin"
+    },
+    "testuser26": {
+        "password_hash": "$2b$12$zBwSNAPr4HYuLW2LSMW9OOjxhSPqs0K7fW3jukgHNqXWSw0ytt6Pu",
+        "role": "user"
+    },
+    "adminuser226": {
+        "password_hash": "$2b$12$BC5Vla.AmcQt/5nQNEZpxu1cDeDuda84phZ.lTieEhEw.k1LT8Sy6",
+        "role": "admin"
+    },
+    "adminuser123": {
+        "password_hash": "$2b$12$cgMwUQ0TEwGJ2sMuuwjXNOXTTH/FnBjEThjNu2uskReN6sZ1tYspu",
+        "role": "user"
+    },
+    "Admin98": {
+        "password_hash": "$2b$12$Q2JhIxoRry94txLOWynJ9OeljF7YxD8N/BMO0.Ori0py7Tu0Mxjfa",
+        "role": "admin"
+    }
+}
