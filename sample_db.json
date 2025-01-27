@@ -54,5 +54,9 @@
     "Admin98": {
         "password_hash": "$2b$12$Q2JhIxoRry94txLOWynJ9OeljF7YxD8N/BMO0.Ori0py7Tu0Mxjfa",
         "role": "admin"
+    },
+    "sahiti": {
+        "password_hash": "$2b$12$gciceABh9VWg7UE5UlgiW.FhiGJlFVbeZGMLhzVP0L/lYd/qQTHWC",
+        "role": "user"
     }
 }
