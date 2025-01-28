@@ -58,5 +58,25 @@
     "sahiti": {
         "password_hash": "$2b$12$gciceABh9VWg7UE5UlgiW.FhiGJlFVbeZGMLhzVP0L/lYd/qQTHWC",
         "role": "user"
+    },
+    "etestuser": {
+        "password_hash": "$2b$12$sHYU2rMP7PbZtlawJqL2X.HfmsCiAzTNnccEHY1O5RB9oDXDplaO.",
+        "role": "user"
+    },
+    "adminuser12": {
+        "password_hash": "$2b$12$RghT3Tr3ufFEi.Vv6rg0Ye.Xw9lI2MKKCMzlN4013uVtJnYSkKBn2",
+        "role": "admin"
+    },
+    "etestuser1": {
+        "password_hash": "$2b$12$RO.mOy0EKoy..enfwdFzXunpFNczbLXrsiMMwmagzYqfhs.ZmYH0C",
+        "role": "user"
+    },
+    "ettestuser1": {
+        "password_hash": "$2b$12$0wpycOLRpCYl2Zz.lBb7.uLFgujseAEg2M3jS82sEo4WW4Oxy0D.y",
+        "role": "user"
+    },
+    "ettestuser18": {
+        "password_hash": "$2b$12$wCJTkExeyhNUkLzk033YL.5/yDEQAj7dsXFgKAT9jDOHX1kIgpK/S",
+        "role": "user"
     }
 }
